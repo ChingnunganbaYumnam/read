@@ -16,3 +16,5 @@ I'm currently working making a health economics model<br>I'm looking to collabor
 [![](https://visitcount.itsvg.in/api?id=ChingnunganbaYumnam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=ChingnunganbaYumnam
+)
